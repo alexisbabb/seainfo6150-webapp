@@ -1,5 +1,4 @@
 import React from 'react'; 
-import PropTypes from "prop-types"
 
 const ArticleListItem = (props) => {
     return (
@@ -11,10 +10,6 @@ const ArticleListItem = (props) => {
 ); 
 
 }; 
-
-ArticleListItem.propTypes = {
-    article: PropTypes.object.isRequired
-  };
 
 export default ArticleListItem; 
 
