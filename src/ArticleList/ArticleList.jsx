@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from "prop-types"
 import ArticleListItem from '../ArticleListItem/ArticleListItem';
 
 const ArticleList = (props) => {
@@ -25,10 +24,6 @@ const ArticleList = (props) => {
     );   
 
 }; 
-
-ArticleList.propTypes = {
-    article: PropTypes.array.isRequired
-  };
 
 export default ArticleList; 
 
