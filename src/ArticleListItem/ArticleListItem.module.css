@@ -1,0 +1,19 @@
+.timeInfo{
+    font-weight: bold; 
+}
+
+.listItem{
+    margin: 20px; 
+    border: 2px solid rgb(220, 20, 20);
+    border-radius: 12px;
+    padding: 12px; 
+    background:linear-gradient(to right, rgb(200, 80, 80), white, white, white, white);
+    font-family:sans-serif; 
+}
+
+.link{
+    color: rgb(220, 20, 20);
+    font: Arial;  
+    font-size: 20px; 
+    font-weight: bold; 
+}

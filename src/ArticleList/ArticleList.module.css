@@ -1,0 +1,12 @@
+.articleList{
+    margin-top: 20px; 
+    border: 2px dashed gray; 
+    border-radius: 12px;  
+    box-shadow: 0px 0px 12px red;
+    background: rgb(160, 160,160);
+}
+
+.listType{
+    list-style-type: none;
+    padding-left: 0px;  
+}
