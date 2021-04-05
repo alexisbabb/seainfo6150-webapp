@@ -14,7 +14,7 @@ const ArticleListItem = (props) => {
 
   return (
     <li className={styles.container}>
-      <article className={styles.article}>
+     <article className={styles.article}>
         <ArticleImage
           url={props.article.image._url}
           title={props.article.title}
