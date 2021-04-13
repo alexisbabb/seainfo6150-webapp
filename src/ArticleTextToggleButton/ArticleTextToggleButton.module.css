@@ -4,3 +4,21 @@
     color: #fff;
     padding: 10px;
 }
+
+@media (min-width: 500px) {
+    .button {
+      font-size: 10px;
+    }
+  }
+  
+  @media (min-width: 1000px) {
+    .button {
+      font-size: 12px;
+    }
+  }
+  
+  @media (min-width: 1500px) {
+    .button {
+      font-size: 14px;
+    }
+  }

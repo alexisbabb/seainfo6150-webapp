@@ -1,0 +1,21 @@
+.articletextonly {
+    column-count: 1; 
+  }
+  
+  @media (min-width: 500px) {
+    .articletextonly {
+      column-count: 2; 
+    }
+  }
+  
+  @media (min-width: 1000px) {
+    .articletextonly {
+      column-count: 3; 
+    }
+  }
+  
+  @media (min-width: 1500px) {
+    .articletextonly {
+      column-count: 4; 
+    }
+  }

@@ -42,3 +42,22 @@
   .link {
     color: #c00;
   }
+
+  @media (min-width: 500px) {
+    .title {
+      font-size: 18px;
+    }
+  }
+  
+  @media (min-width: 1000px) {
+    .title {
+      font-size: 20px;
+    }
+  }
+  
+  @media (min-width: 1500px) {
+    .title {
+      font-size: 22px;
+    }
+}
+  
